@@ -19,6 +19,12 @@
   color: white;
 }
 
+
+.login-button {
+  margin-top: 10px 0;
+  cursor: pointer;
+}
+
 .App-link {
   color: #61dafb;
 }
